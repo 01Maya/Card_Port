@@ -25,8 +25,8 @@ A modern, interactive **Draggable Card Portfolio** built with **React** and **Ne
 
 ## Installation
 
-1. Clone the repo:  
 ```bash
+1. Clone the repo:
 git clone https://github.com/01maya/draggable-card-portfolio.git
 
 2. Install dependencies:
