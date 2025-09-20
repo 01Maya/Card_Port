@@ -4,6 +4,11 @@ A modern, interactive **Draggable Card Portfolio** built with **React** and **Ne
 
 ---
 
+## Preview
+
+https://mansicardportfolio.vercel.app/
+
+---
 ## Features
 
 - **Draggable Cards:** Move cards around for interactivity.  
