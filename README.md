@@ -22,7 +22,12 @@ A modern, interactive **Draggable Card Portfolio** built with **React** and **Ne
 - **Lucide React** for icons  
 
 ---
+## Screenshots
 
+![Image](https://github.com/user-attachments/assets/3c8de78a-e592-4ec3-9bf7-f528f4690a98)
+![Image](https://github.com/user-attachments/assets/747ccf3f-75b7-4565-85cb-f64816af4226)
+
+---
 ## Installation
 
 ```bash
