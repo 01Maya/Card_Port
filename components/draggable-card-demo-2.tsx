@@ -11,7 +11,7 @@ export default function DraggableCardDemo() {
     {
       title: "Profile",
       image: "/profile.png",
-      link: "https://github.com/01Maya/profile",
+      link: "https://profile01-minimal.vercel.app/",
     },
     {
       title: "Agency",
