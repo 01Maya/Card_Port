@@ -55,6 +55,12 @@ export default function DraggableCardDemo() {
       link: "https://github.com/01Maya/card",
     },
     {
+      title: "CryptoVault",
+      image: "/crypto.jpeg",
+      className: "absolute top-20 right-[40%] rotate-[5deg]",
+      link: "https://github.com/01Maya/CryptoVault",
+    },
+    {
       title: "Delicious",
       image: "/delicious.jpeg",
       className: "absolute top-24 left-[45%] rotate-[-7deg]",
