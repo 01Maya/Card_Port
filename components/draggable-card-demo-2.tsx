@@ -35,7 +35,7 @@ export default function DraggableCardDemo() {
       title: "Olea-Skin Care",
       image: "/Olea Skin Care.jpeg",
        className: "absolute top-6 left-[51%] rotate-[-5deg]",
-      link: "https://https://olea-skincare-landing-page.vercel.app/",
+      link: "https://olea-skincare-landing-page.vercel.app/",
     },
     {
       title: "Bakery",
