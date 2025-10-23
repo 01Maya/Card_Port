@@ -62,6 +62,12 @@ export default function DraggableCardDemo() {
       link: "https://luxury-blog-01.vercel.app/",
     },
     {
+      title: "Wedding Planner",
+      image: "/Wedding planner.jpeg",
+      className: "absolute top-8 left-[45%] rotate-[-8deg]",
+      link: "https://moments-wedding-planner.vercel.app/",
+    },
+    {
       title: "Paw Care",
       image: "/paw care.jpeg",
       link: "https://paww-care.vercel.app/",
