@@ -21,7 +21,7 @@ export default function DraggableCardDemo() {
     },
     {
       title: "Nexus Product Launch",
-      image: "/Nexus Launch.png",
+      image: "/Nexus Launch.jpeg",
       className: "absolute top-15 left-[50%] rotate-[5deg]",
       link: "https://nexus-product-launch.vercel.app/",
     },
