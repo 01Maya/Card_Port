@@ -20,6 +20,12 @@ export default function DraggableCardDemo() {
       link: "https://github.com/01Maya/My-Agency",
     },
     {
+      title: "Nexus Product Launch",
+      image: "/Nexus Launch.png",
+      className: "absolute top-15 left-[50%] rotate-[5deg]",
+      link: "https://nexus-product-launch.vercel.app/",
+    },
+    {
       title: "Beauty Product",
       image: "/beauty product.png",
       className: "absolute top-10 left-[20%] rotate-[-5deg]",
