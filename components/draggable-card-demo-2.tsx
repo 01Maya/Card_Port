@@ -124,7 +124,7 @@ export default function DraggableCardDemo() {
       title: "Fitness",
       image: "/fitness.jpeg",
       className: "absolute top-8 left-[30%] rotate-[4deg]",
-      link: "https://github.com/01Maya/Fitness",
+      link: "https://fitness-o1.vercel.app/",
     },
   ];
 
