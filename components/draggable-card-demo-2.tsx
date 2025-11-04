@@ -99,7 +99,7 @@ export default function DraggableCardDemo() {
     {
       title: "Amplify",
       image: "/amplify sma.jpeg",
-      className: "absolute top-18 left-[20%] rotate-[7deg]",
+      className: "absolute top-12 left-[20%] rotate-[7deg]",
       link: "https://amplify-socialmediamarketing.vercel.app/",
     },
     {
