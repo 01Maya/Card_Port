@@ -115,6 +115,12 @@ export default function DraggableCardDemo() {
       link: "https://nail-studio-smoky.vercel.app",
     },
     {
+      title: "Zudio Perf Fragrance",
+      image: "/zudio perf.jpeg",
+      className: "absolute top-2 left-[50%] rotate-[-6deg]",
+      link: "https://zperf-fragrance.vercel.app/",
+    },
+    {
       title: "Freelance ToolKit",
       image: "/freelance toolkit.jpeg",
       className: "absolute top-8 left-[30%] rotate-[4deg]",
