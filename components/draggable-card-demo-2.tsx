@@ -97,6 +97,12 @@ export default function DraggableCardDemo() {
       link: "https://crypto-vault-o1.vercel.app/",
     },
     {
+      title: "Christmas Collection Store",
+      image: "/christmas.jpeg",
+      className: "absolute top-6 right-[50%] rotate-[6deg]",
+      link: "https://christmas-collection-store.vercel.app/",
+    },
+    {
       title: "Amplify",
       image: "/amplify sma.jpeg",
       className: "absolute top-12 left-[20%] rotate-[7deg]",
