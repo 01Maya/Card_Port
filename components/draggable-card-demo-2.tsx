@@ -99,7 +99,7 @@ export default function DraggableCardDemo() {
     {
       title: "Christmas Collection Store",
       image: "/christmas.jpeg",
-      className: "absolute top-6 right-[50%] rotate-[6deg]",
+      className: "absolute top-6 left-[55%] rotate-[6deg]",
       link: "https://christmas-collection-store.vercel.app/",
     },
     {
