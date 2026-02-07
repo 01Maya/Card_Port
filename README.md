@@ -41,7 +41,7 @@ https://mansicardportfolio.vercel.app/
    git clone https://github.com/01maya/draggable-card-portfolio.git
 
 2. Install dependencies:
-npm install
+   npm install
 # or
 yarn install
 
