@@ -43,7 +43,7 @@ https://mansicardportfolio.vercel.app/
 2. Install dependencies:
    npm install
 # or
-yarn install
+   yarn install
 
 3. Run the development server:
 npm run dev
