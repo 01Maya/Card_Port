@@ -47,7 +47,7 @@ https://mansicardportfolio.vercel.app/
 
 3. Run the development server:
    npm run dev
-# or
+   # or
    yarn dev
 
 4. Open http://localhost:3000 in your browser.
