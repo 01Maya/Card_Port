@@ -22,14 +22,14 @@ https://mansicardportfolio.vercel.app/
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 - **React** & **Next.js**  
 - **Tailwind CSS**  
 - **Lucide React** for icons  
 
 ---
-## Screenshots
+## Screenshots 📸
 
 ![Image](https://github.com/user-attachments/assets/3c8de78a-e592-4ec3-9bf7-f528f4690a98)
 ![Image](https://github.com/user-attachments/assets/747ccf3f-75b7-4565-85cb-f64816af4226)
