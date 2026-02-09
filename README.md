@@ -6,7 +6,7 @@ A modern, interactive **Draggable Card Portfolio** built with **React** and **Ne
 
 ---
 
-## Preview
+## Preview 📲
 
 https://mansicardportfolio.vercel.app/
 
