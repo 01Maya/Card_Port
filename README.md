@@ -35,7 +35,7 @@ https://mansicardportfolio.vercel.app/
 ![Image](https://github.com/user-attachments/assets/747ccf3f-75b7-4565-85cb-f64816af4226)
 
 ---
-## Installation
+## Installation ⚡️
 
 ```bash
 
