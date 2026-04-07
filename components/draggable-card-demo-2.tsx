@@ -144,6 +144,12 @@ export default function DraggableCardDemo() {
       className: "absolute top-8 left-[30%] rotate-[4deg]",
       link: "https://fitness-o1.vercel.app/",
     },
+    {
+      title: "Car Rental",
+      image: "/car rental.jpeg",
+      className: "absolute top-7 left-[50%] rotate-[-4deg]",
+      link: "https://carrrental01.vercel.app/",
+    },
   ];
 
   return (
