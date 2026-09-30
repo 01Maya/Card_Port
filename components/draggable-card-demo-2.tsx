@@ -133,8 +133,8 @@ export default function DraggableCardDemo() {
       link: "https://freelance-tool-kiit.vercel.app/",
     },
     {
-      title: "Card",
-      image: "/card.jpeg",
+      title: "SMM Studio",
+      image: "/SMM Studio.jpg",
       className: "absolute top-20 right-[35%] rotate-[2deg]",
       link: "https://nextgen-card.vercel.app/",
     },
