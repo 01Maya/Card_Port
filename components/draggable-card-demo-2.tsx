@@ -136,7 +136,7 @@ export default function DraggableCardDemo() {
       title: "SMM Studio",
       image: "/SMM Studio.jpg",
       className: "absolute top-20 right-[35%] rotate-[2deg]",
-      link: "https://nextgen-card.vercel.app/",
+      link: "https://smm-studio-social-media-expert.vercel.app/",
     },
     {
       title: "Coffeo",
