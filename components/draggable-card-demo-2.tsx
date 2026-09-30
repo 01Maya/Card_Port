@@ -133,6 +133,12 @@ export default function DraggableCardDemo() {
       link: "https://freelance-tool-kiit.vercel.app/",
     },
     {
+      title: "Card",
+      image: "/card.jpeg",
+      className: "absolute top-20 right-[35%] rotate-[2deg]",
+      link: "https://nextgen-card.vercel.app/",
+    },
+    {
       title: "Coffeo",
       image: "/coffeo.jpeg",
       className: "absolute top-10 left-[45%] rotate-[-5deg]",
@@ -144,6 +150,7 @@ export default function DraggableCardDemo() {
       className: "absolute top-8 left-[30%] rotate-[4deg]",
       link: "https://fitness-o1.vercel.app/",
     },
+    
     {
       title: "Car Rental",
       image: "/car rental.jpeg",
