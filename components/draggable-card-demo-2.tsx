@@ -157,6 +157,11 @@ export default function DraggableCardDemo() {
       className: "absolute top-7 left-[50%] rotate-[-4deg]",
       link: "https://carrrental01.vercel.app/",
     },
+        {
+      title: "Wavy",
+      image: "/wavy.jpeg",
+      link: "https://wavy-navy.vercel.app/",
+    },
   ];
 
   return (
